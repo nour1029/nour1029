@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nour Mohamed</h1>
-<h2>Python Full-Stack Developer</h2>
+<h2 align="center">Python Full-Stack Developer</h2>
 
 - 🔭 I’m currently working on **Social Media Project**
 

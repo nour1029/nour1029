@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Nour Mohamed</h1>
 <h2>Python Full-Stack Developer</h2>
 
-- 🔭 I’m currently working on a **Social Media Project**
+- 🔭 I’m currently working on Deal CRM project
 
 - 👨‍💻 All of my projects are available at [nourmohamed.com](nourmohamed.com)
 

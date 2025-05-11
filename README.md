@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [nourmohamed.com](nourmohamed.com)
 
-- 🌱 I’m currently learning Vue.js
+- 🌱 I’m currently learning **AI Agents Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

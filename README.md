@@ -1,18 +1,27 @@
-<h1>Hi 👋, I'm Nour Mohamed</h1>
-<h2>Python Full-Stack Developer</h2>
+# Hi, I'm Nour Mohamed
 
-- 🔭 I’m currently working on **Deal CRM**
+Python / Django backend engineer from Egypt. I design and build multi-tenant SaaS products: the product itself, the architecture and database, the backend, and the servers it runs on.
 
-- 👨‍💻 All of my projects are available at [nourmohamed.com](nourmohamed.com)
+## What I've built
 
-- 🌱 I’m currently learning **AI Agents Development**
+**Deal CRM**: multi-tenant CRM for real-estate companies, used every day by 20+ companies.
+- Co-founder & CTO: designed the product and the architecture from scratch, built most of the backend, own DevOps, and lead the development teams.
+- Django + PostgreSQL with schema-per-tenant isolation, role and field-level permissions, Celery/Redis background jobs.
+- Facebook Lead Ads and WhatsApp Cloud API integrations, with automatic lead assignment.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nour-mohamed-644343246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nour-mohamed-644343246" height="30" width="40" /></a>
-</p>
+**QIO Cloud**: multi-tenant ERP SaaS on ERPNext.
+- Built the SaaS layer: plans, Stripe subscriptions, and tenants.
+- A separate FastAPI service creates a new ERPNext site for each customer in 2-3 minutes and runs on several servers; calls retry safely and are idempotent.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+Both are private client systems. I'm happy to show a live demo on a call.
 
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nour1029&show_icons=true&locale=en&layout=compact" alt="nour1029" /></p> -->
+## Stack
+- **Backend:** Python, Django, Django REST Framework, FastAPI, Celery
+- **Data:** PostgreSQL, Redis, MariaDB
+- **DevOps:** Docker, Docker Compose, Nginx, Linux servers, GitHub Actions CI/CD, AWS (EC2, S3, RDS)
+- **Testing:** pytest, pytest-django
+- **Integrations:** Stripe, PayPal, WhatsApp Cloud API, Facebook Lead Ads, webhooks, OAuth
+- **Frontend:** JavaScript, HTML/CSS, Tailwind CSS, React (basic)
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/nour-mohamed-644343246/)
